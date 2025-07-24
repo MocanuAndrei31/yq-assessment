@@ -31,7 +31,7 @@ Analytics dashboard for the YQ assessment. Built with React, TypeScript, and Tai
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MocanuAndrei31/yq-assessment.git
 cd yq-assessment
 ```
 
@@ -101,16 +101,6 @@ src/
 - Time buckets are shown as daily data
 - Made it responsive for mobile/tablet
 
-## What could be added
-
-- Real backend integration
-- Date filters for the charts
-- Export to CSV/PDF
-- Dark mode
-- WebSocket for real-time data
-- Tests
-- Better performance for large data
-- More accessibility features
 
 ## Build
 
